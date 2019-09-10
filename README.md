@@ -1,1 +1,1 @@
-Weather forecast written in React and styled coponents, using weather api.
+Weather forecast written in React and styled components, using weather api.

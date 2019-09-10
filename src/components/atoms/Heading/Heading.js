@@ -4,7 +4,6 @@ import styled, {css} from 'styled-components';
 const Heading = styled.h1`
 font-size :2em ; 
 color : white;  
-width : 50%; 
 margin : 0 auto; 
 text-align : center ; 
 text-transform : uppercase; 

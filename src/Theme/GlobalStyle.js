@@ -3,7 +3,7 @@ import {createGlobalStyle} from 'styled-components';
 
 const GlobalStyle = createGlobalStyle`
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Signika&display=swap');
 
 
 *,*::before , *::after{ 
@@ -13,12 +13,14 @@ const GlobalStyle = createGlobalStyle`
 }
 
 html{ 
-    html { font-size: calc(1em + 1vw) }
+font-size: calc(1em + 1vw) 
 }
 
 body { 
-    font-family : "Montserrat", sans-serif; 
-    font-size : 1em; 
+  font-family: 'Signika', sans-serif;
+   overflow-x: hidden ; 
+   margin : 0 auto;
+   font-size: 1em; 
 }
 
 
