@@ -9,8 +9,8 @@ import Title from '../Title/Title';
 
 
 const StyledWrapper = styled.div`
-width : 95vw; 
-height : 95vh; 
+width : 99vw; 
+height : 99vh; 
 overflow: hidden; 
 text-align : center;  
 position : absolute; 
