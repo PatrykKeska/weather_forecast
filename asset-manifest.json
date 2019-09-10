@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/weather_forecast/static/js/main.2f38b138.chunk.js",
-    "main.js.map": "/weather_forecast/static/js/main.2f38b138.chunk.js.map",
+    "main.js": "/weather_forecast/static/js/main.b2293c7e.chunk.js",
+    "main.js.map": "/weather_forecast/static/js/main.b2293c7e.chunk.js.map",
     "runtime~main.js": "/weather_forecast/static/js/runtime~main.d02c3fd9.js",
     "runtime~main.js.map": "/weather_forecast/static/js/runtime~main.d02c3fd9.js.map",
     "static/js/2.251ca7f6.chunk.js": "/weather_forecast/static/js/2.251ca7f6.chunk.js",
     "static/js/2.251ca7f6.chunk.js.map": "/weather_forecast/static/js/2.251ca7f6.chunk.js.map",
     "index.html": "/weather_forecast/index.html",
-    "precache-manifest.7a1297dae04ecd6f6c2c14551ac841d7.js": "/weather_forecast/precache-manifest.7a1297dae04ecd6f6c2c14551ac841d7.js",
+    "precache-manifest.764d3463ba75e757c935478fe95a3433.js": "/weather_forecast/precache-manifest.764d3463ba75e757c935478fe95a3433.js",
     "service-worker.js": "/weather_forecast/service-worker.js",
     "static/media/Drizzle.jpg": "/weather_forecast/static/media/Drizzle.09745bd1.jpg",
     "static/media/brokenClouds.jpg": "/weather_forecast/static/media/brokenClouds.44ccc5ea.jpg",
