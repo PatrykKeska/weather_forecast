@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/weather_forecast/static/js/main.2f38b138.chunk.js",
+    "main.js.map": "/weather_forecast/static/js/main.2f38b138.chunk.js.map",
+    "runtime~main.js": "/weather_forecast/static/js/runtime~main.d02c3fd9.js",
+    "runtime~main.js.map": "/weather_forecast/static/js/runtime~main.d02c3fd9.js.map",
+    "static/js/2.251ca7f6.chunk.js": "/weather_forecast/static/js/2.251ca7f6.chunk.js",
+    "static/js/2.251ca7f6.chunk.js.map": "/weather_forecast/static/js/2.251ca7f6.chunk.js.map",
+    "index.html": "/weather_forecast/index.html",
+    "precache-manifest.7a1297dae04ecd6f6c2c14551ac841d7.js": "/weather_forecast/precache-manifest.7a1297dae04ecd6f6c2c14551ac841d7.js",
+    "service-worker.js": "/weather_forecast/service-worker.js",
+    "static/media/Drizzle.jpg": "/weather_forecast/static/media/Drizzle.09745bd1.jpg",
+    "static/media/brokenClouds.jpg": "/weather_forecast/static/media/brokenClouds.44ccc5ea.jpg",
+    "static/media/clearSky.jpg": "/weather_forecast/static/media/clearSky.79fe2167.jpg",
+    "static/media/errorImg.jpg": "/weather_forecast/static/media/errorImg.458e2231.jpg",
+    "static/media/fewClouds.jpg": "/weather_forecast/static/media/fewClouds.5578cf16.jpg",
+    "static/media/fog.jpg": "/weather_forecast/static/media/fog.b27a4e9e.jpg",
+    "static/media/heavyRain.jpg": "/weather_forecast/static/media/heavyRain.de43a9c8.jpg",
+    "static/media/heavySnow.jpg": "/weather_forecast/static/media/heavySnow.0670e21f.jpg",
+    "static/media/heavyStorm.jpg": "/weather_forecast/static/media/heavyStorm.e57ce671.jpg",
+    "static/media/lightRain.jpg": "/weather_forecast/static/media/lightRain.50902c64.jpg",
+    "static/media/lightSnow.jpg": "/weather_forecast/static/media/lightSnow.df1c625e.jpg",
+    "static/media/mainBackground.jpg": "/weather_forecast/static/media/mainBackground.2fb6fbd9.jpg",
+    "static/media/sleet.jpg": "/weather_forecast/static/media/sleet.17675593.jpg",
+    "static/media/squalls.jpg": "/weather_forecast/static/media/squalls.995547a2.jpg",
+    "static/media/tornado.jpg": "/weather_forecast/static/media/tornado.051898ef.jpg"
+  }
+}
