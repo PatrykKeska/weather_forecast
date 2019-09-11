@@ -190,6 +190,7 @@ class MainPage extends React.Component {
     }
    
     render(){
+        const {isModalOpen, isErrorPopOpen} = this.state
       
         return(
             <Section>
@@ -202,8 +203,8 @@ class MainPage extends React.Component {
         <Button onClick={this.handleSearchCity} type="submit">Search</Button>
         </StyledForm>
 
-        {this.state.isModalOpen ? (<PopUp state={this.state} closeModal={this.handleCloseModal}/>) :(null)}
-        {this.state.isErrorPopOpen ? (<ErrorPop state={this.state} closeErrorPop={this.handleCloseErrorPop}/>) :(null)}
+        {isModalOpen ? (<PopUp state={this.state} closeModal={this.handleCloseModal}/>) :(null)}
+        {isErrorPopOpen ? (<ErrorPop state={this.state} closeErrorPop={this.handleCloseErrorPop}/>) :(null)}
         </StyledWrapper>
         </Section>
         )
